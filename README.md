@@ -1,0 +1,2 @@
+# weather-project
+This was my first github repository 😅. I plan to grow and improve with every commit I make in future.That being said I performed Exploratory Data analysis on this project using the dataset I provided.It was a project involving Python and dived in to answer some of the questions that may develop from reviewing and understanding this particular dataset.In future I plan to do some modeling now that the dataset was ready to be processed.
